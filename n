@@ -1,0 +1,39 @@
+[33mcommit a6416354bd6cc43d14d37e3fac8c7966bb3ef055[m
+Author: root <root@ip-172-31-30-111.us-east-2.compute.internal>
+Date:   Mon Sep 21 13:16:51 2020 +0000
+
+    this is my first commit
+
+[1mdiff --git a/ashok b/ashok[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/aus b/aus[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/bangladesh b/bangladesh[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/india b/india[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/irland b/irland[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/kenya b/kenya[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/pak b/pak[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/southafrica b/southafrica[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/srilanka b/srilanka[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/westindies b/westindies[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/zimbawbe b/zimbawbe[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
